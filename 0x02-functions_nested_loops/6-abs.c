@@ -12,7 +12,7 @@ int _abs(int j)
 	{
 		j = -(j);
 	}
-	else if (j >= 0)
+	else (j >= 0)
 	{
 		j = j;
 	}
